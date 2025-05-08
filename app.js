@@ -60,19 +60,19 @@
 // obj2 = { a: 10, d: 4, e: 6, f: 15 };
 // Output: obj = {b: 10, c: 5, e: 6, f: 15};
 
-const obj1 = { a: 3, b: 10, c: 5, d: 7 };
-const obj2 = { a: 10, d: 4, e: 6, f: 15 };
-const obj3 = {};
+// const obj1 = { a: 3, b: 10, c: 5, d: 7 };
+// const obj2 = { a: 10, d: 4, e: 6, f: 15 };
+// const obj3 = {};
 
-for (let item in obj1) {
-  if (!obj2[item]) {
-    obj3[item] = obj1[item];
-  }
-}
-for (let item in obj2) {
-  if (!obj1[item]) {
-    obj3[item] = obj2[item];
-  }
-}
+// for (let item in obj1) {
+//   if (!obj2[item]) {
+//     obj3[item] = obj1[item];
+//   }
+// }
+// for (let item in obj2) {
+//   if (!obj1[item]) {
+//     obj3[item] = obj2[item];
+//   }
+// }
 
-console.log(obj3);
+// console.log(obj3);
