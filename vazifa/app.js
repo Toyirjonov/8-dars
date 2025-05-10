@@ -125,6 +125,11 @@
 
 // console.log(result);
 
+// 9-task
+const numbers = [
+
+]
+
 // 10-task
 // Quyidagi ko'rinishda objectlarlardan tuzilgan massiv beriladi. Agar alreadyRead propertysi true bo'lsa o'sha kitob o'qigan deb chiqarilsin, aks holda o'qilmagan.
 
@@ -253,6 +258,8 @@
 
 // const GPA = totalgrade / totalkredit;
 // console.log(GPA.toFixed(2));
+
+// 14-task
 
 // Abdulaziz Programmer nechta to'g'ri va noto'g'ri javob topganligini toping.
 
