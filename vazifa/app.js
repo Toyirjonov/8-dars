@@ -337,6 +337,8 @@
 // const res = getMultipleValues(n);
 // console.log(res);
 
+// 16-task tushinmadim
+
 // 17-20 task
 
 // const pupils = [
