@@ -126,9 +126,23 @@
 // console.log(result);
 
 // 9-task
-const numbers = [
+// function sort(num) {
+//   let _num = num.toString();
+//   let obj = {};
+//   let arr = ["birlar", "minglar", "millionlar", "milliardlar", "trilionlar"];
+//   let arrIndex = 0;
+//   for (let i = _num.length; i > 0; i -= 3) {
+//     if (i - 3 >= 0) {
+//       obj[arr[arrIndex]] = _num.slice(i - 3, i);
+//     } else {
+//       obj[arr[arrIndex]] = _num.slice(0, i);
+//     }
+//     arrIndex++;
+//   }
+//   return obj;
+// }
 
-]
+// console.log(sort(8945472985629));
 
 // 10-task
 // Quyidagi ko'rinishda objectlarlardan tuzilgan massiv beriladi. Agar alreadyRead propertysi true bo'lsa o'sha kitob o'qigan deb chiqarilsin, aks holda o'qilmagan.
